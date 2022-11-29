@@ -1,0 +1,11 @@
+html{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+#elemento1{
+    color: red;
+}
+ul li#elemento1{
+    font-size: 2rem;
+}
